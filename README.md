@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoSoft08, Software Engineer for two years
+- 👋 Hi, I’m @NicoSoft08, Software Engineer for over three years
 - 👀 I’m interested in every thing related to technologies, especially web and mobile apps development
 - 🌱 I’m currently learning React Native, a Javascript framework
 - 💞️ I’m looking to collaborate on developing projects based on building web and mobile app 
